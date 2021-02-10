@@ -124,4 +124,5 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+ - jekyll-seo-tag.
+ - jekyll-sitemap
