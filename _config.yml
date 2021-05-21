@@ -79,7 +79,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Chief Operating Officer
         caption: Aug. 2017 - Mar. 2021
-        quote: >
+        # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Improving and updating the after-sales service process. (using specialized software and training the technicians)
@@ -90,7 +90,7 @@ content:
             - Implementing data center and web server from A to Z. From opting infrastructure to deploying applications. (FTTH, Windows server, IIS, MSSQL)
             - Executive manager at network projects.
             - Designing and rebranding corporate identity.
-    content:
+
       - layout: left
         title: Isfahan Reebok
         link: www.reebokesfahan.com
