@@ -98,7 +98,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Chief Operating Officer
         caption: Agu. 2016 - Aug. 2017
-        quote: >
+        # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             - Launching a shopping website(WordPress). improving website SEO to the third rank in Google.
@@ -110,7 +110,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Chief Executive Officer
         caption: Jan. 2016 - Jun. 2017
-        quote: >
+        # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           - Introducing and distributing wearable technology.
@@ -122,7 +122,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Python Developer
         caption: Nov. 2010 - Jan. 2011
-        quote: >
+        # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           - Finding the shortest route in a graph with n$\times$n dimension based on Dijkstra's algorithm.
