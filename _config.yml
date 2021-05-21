@@ -30,13 +30,13 @@ linkedin_username: ahmad-motamedi
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Ahmad Motamedi github
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-- title: another link
-  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Ahmad Motamedi github
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,43 +48,85 @@ google_analytics: "G-HMHEJ18QKN"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ahmad and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Being a geek and coding is one of the main pleasures of my life. I enjoy reading the code line by line. Interested in devising a better problem-solving method for challenging tasks. And learning new technologies and tools if the need arises.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Tomax Co.
+        link: tomaxco.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Chief Operating Officer
+        caption: Aug. 2017 - Mar. 2021
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Improving and updating the after-sales service process. (using specialized software and training the technicians)
+            - Launching a happy call center to improve customer satisfaction
+            - Responsibility for human resource recruitments. (From publishing recruitment advertisement to interviewing.)
+            - Launching a shopping website(Prestashop, Magento).
+            - Deploying VoIP technology to improve call quality and reduction in costs.
+            - Implementing data center and web server from A to Z. From opting infrastructure to deploying applications. (FTTH, Windows server, IIS, MSSQL)
+            - Executive manager at network projects.
+            - Designing and rebranding corporate identity.
+    content:
+      - layout: left
+        title: Isfahan Reebok
+        link: www.reebokesfahan.com
+        # link_text: boringcompany.com
+        sub_title: Chief Operating Officer
+        caption: Agu. 2016 - Aug. 2017
+        quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Launching a shopping website(WordPress). improving website SEO to the third rank in Google.
+            - Launching social media profile and improving its engagement (Instagram).
+
+    content:
+      - layout: left
+        title: PooshTech
+        link: www.reebokesfahan.com
+        # link_text: boringcompany.com
+        sub_title: Chief Executive Officer
+        caption: Jan. 2016 - Jun. 2017
+        quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          - Introducing and distributing wearable technology.
+          - Importing smart bracelets and watches.
+
+    content:
+      - layout: left
+        title: University of Qom
+        link: www.qom.ac.ir
+        # link_text: boringcompany.com
+        sub_title: Python Developer
+        caption: Nov. 2010 - Jan. 2011
+        quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          - Finding the shortest route in a graph with n$\times$n dimension based on Dijkstra's algorithm.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
