@@ -118,8 +118,8 @@ content:
 
       - layout: left
         title: University of Qom
-        link: www.qom.ac.ir
-        # link_text: boringcompany.com
+        link: http://www.qom.ac.ir
+        link_text: boringcompany.com
         sub_title: Python Developer
         caption: Nov. 2010 - Jan. 2011
         # quote: >
