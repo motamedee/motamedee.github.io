@@ -72,6 +72,7 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
+    
     content:
       - layout: left
         title: Tomax Co.
@@ -103,7 +104,6 @@ content:
             - Launching a shopping website(WordPress). improving website SEO to the third rank in Google.
             - Launching social media profile and improving its engagement (Instagram).
 
-    content:
       - layout: left
         title: PooshTech
         link: www.reebokesfahan.com
@@ -116,7 +116,6 @@ content:
           - Introducing and distributing wearable technology.
           - Importing smart bracelets and watches.
 
-    content:
       - layout: left
         title: University of Qom
         link: www.qom.ac.ir
