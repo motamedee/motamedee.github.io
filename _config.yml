@@ -128,7 +128,7 @@ content:
             - CSS
 
       - layout: left
-        title: Soft Skills
+        title: Programming
         description: | # this will include new lines to allow paragraphs
             - Python
             - C++
@@ -136,7 +136,7 @@ content:
             - LaTeX
           
       - layout: left
-        title: Programming
+        title: Soft Skills
         description: | # this will include new lines to allow paragraphs
             - Clear Communication
             - Listening Skil
