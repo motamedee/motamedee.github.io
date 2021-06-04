@@ -148,16 +148,16 @@ content:
           - Introducing and distributing wearable technology.
           - Importing smart bracelets and watches.
 
-      - layout: left
-        title: University of Qom
-        link: qom.ac.ir
-        # link_text: boringcompany.com
-        sub_title: Python Developer
-        caption: Nov. 2010 - Jan. 2011
-        # quote: >
-          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          - Finding the shortest route in a graph with n$\times$n dimension based on Dijkstra's algorithm.
+      # - layout: left
+      #   title: University of Qom
+      #   link: qom.ac.ir
+      #   # link_text: boringcompany.com
+      #   sub_title: Python Developer
+      #   caption: Nov. 2010 - Jan. 2011
+      #   # quote: >
+      #     # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #   description: | # this will include new lines to allow paragraphs
+      #     - Finding the shortest route in a graph with n$\times$n dimension based on Dijkstra's algorithm.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -180,17 +180,17 @@ content:
         description: |
           Study on Condensed matter physics: Physics of Ceramics and its application in industry.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
