@@ -100,7 +100,53 @@ content:
             - VoIP
             - IIS
             - Apache 
-            -Nginx        
+            -Nginx   
+            
+      - layout: left
+      title: Back-end
+      description: | # this will include new lines to allow paragraphs
+          - Flask
+          - Django
+          - REST API
+          - pip
+          - Virtual Environments
+          - OOP
+
+      - layout: left
+      title: Data
+      description: | # this will include new lines to allow paragraphs
+          - Microsoft Access
+          - Excel
+          - SSIS
+          - MSSQL
+          - MySQL
+          
+      - layout: left
+      title: Front-end
+      description: | # this will include new lines to allow paragraphs
+          - HTML
+          - CSS
+
+      - layout: left
+      title: Programming
+      description: | # this will include new lines to allow paragraphs
+          - Python
+          - C++
+          - Bash
+          - LaTeX
+          
+      - layout: left
+      title: Programming
+      description: | # this will include new lines to allow paragraphs
+          - Clear Communication
+          - Listening Skil
+          - Self-control
+          - Conflict Resolution
+          - Empathy
+          - Sense of Humor
+          - Positive Attitude
+    
+        
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
