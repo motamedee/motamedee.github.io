@@ -128,7 +128,7 @@ content:
           - CSS
 
       - layout: left
-      title: Programming
+      title: Soft Skills
       description: | # this will include new lines to allow paragraphs
           - Python
           - C++
