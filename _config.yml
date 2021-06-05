@@ -120,6 +120,7 @@ content:
             - SSIS
             - MSSQL
             - MySQL
+            - RapidMiner
           
       - layout: left
         title: Front-end
