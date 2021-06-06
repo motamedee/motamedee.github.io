@@ -1,3 +1,10 @@
-{% if site.google_analytics and jekyll.environment == 'production' %}
+<head>
+
+<!-- Your head content -->
+
+{% if jekyll.environment == 'production' %}
 {% include analytics.html %}
 {% endif %}
+
+</head>
+
