@@ -151,7 +151,20 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    
+
+    content:
+    - layout: left
+      title: Medinaz
+      link: medinaz.net
+      # link_text: boringcompany.com
+      sub_title: Web Developer
+      caption: Mar. 2021 - Apr 2021
+      # quote: >
+        # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      description: | # this will include new lines to allow paragraphs
+          - Developing CRM system based on Flask and MySQL.
+
+
     content:
       - layout: left
         title: Tomax Co.
@@ -175,7 +188,7 @@ content:
         title: Isfahan Reebok
         link: www.reebokesfahan.com
         # link_text: boringcompany.com
-        sub_title: Chief Operating Officer
+        sub_title: Ecommerce Manager
         caption: Agu. 2016 - Aug. 2017
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
