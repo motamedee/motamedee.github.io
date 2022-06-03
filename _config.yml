@@ -48,7 +48,7 @@ google_analytics: G-MY97W9FR01
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Being a geek and coding is one of the main pleasures of my life. I enjoy reading the code line by line. Interested in devising a better problem-solving method for challenging tasks. And learning new technologies and tools if the need arises.
+  I started my occupation journey in data in 2018. Being a geek, coding and learning are the main pleasures of my life. I'm enjoying using data to get insight. And I'm Interested in devising a better problem-solving method for challenging tasks And learning new technologies and tools.
 
 content:
   # - title: Projects # Title for the section
@@ -97,16 +97,13 @@ content:
         description: | # this will include new lines to allow paragraphs
             - Git
             - Docker
-            - VoIP
             - IIS
             - Apache 
-            -Nginx   
             
       - layout: left
         title: Back-end
         description: | # this will include new lines to allow paragraphs
             - Flask
-            - Django
             - REST API
             - pip
             - Virtual Environments
@@ -117,10 +114,16 @@ content:
         description: | # this will include new lines to allow paragraphs
             - Microsoft Access
             - Excel
+            - T-SQL
             - SSIS
+            - SSAS
             - MSSQL
+            - MongoDB
             - MySQL
             - RapidMiner
+            - Pandas
+            - Power BI 
+            - Report Server
           
       - layout: left
         title: Front-end
@@ -154,57 +157,72 @@ content:
 
     content:
       - layout: left
+        title: Tejarat Bank Customers Club
+        link: club.tejaratbank.ir
+        # link_text: boringcompany.com
+        sub_title: Business Inteligence Developer
+        caption: Nov. 2021 - Present
+        # quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            - Developing and refactor the data warehouse.
+            - Integrating data from various resources and Developing ETL pipelines in python and SSIS.
+            - Creating and design tabular data model in SSAS.
+            - Developing reports in Power BI to expedite and more transparent view of the company.
+            - Instructing SQL and Excel to new colleagues.
+
+
+
+
+      - layout: left
         title: Medinaz
         link: medinaz.net
         # link_text: boringcompany.com
         sub_title: Web Developer
-        caption: Mar. 2021 - Apr 2021
+        caption: Agu. 2021 - Nov. 2021
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Developing CRM system based on Flask and MySQL.
+            - Developing reservation system based on Flask, MySQL and Docker.
+            - Developing the Medinaz Telegram bot.
 
       - layout: left
         title: Tomax Co.
         link: tomaxco.com
         # link_text: boringcompany.com
-        sub_title: Chief Operating Officer
-        caption: Aug. 2017 - Mar. 2021
+        sub_title: Business Analyst
+        caption:Aug. 2017 - Agu. 2021
         # quote: >
           # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            - Improving and updating the after-sales service process. (using specialized software and training the technicians)
-            - Launching a happy call center to improve customer satisfaction
-            - Responsibility for human resource recruitments. (From publishing recruitment advertisement to interviewing.)
-            - Launching a shopping website(Prestashop, Magento).
-            - Deploying VoIP technology to improve call quality and reduction in costs.
-            - Implementing data center and web server from A to Z. From opting infrastructure to deploying applications. (FTTH, Windows server, IIS, MSSQL)
-            - Executive manager at network projects.
-            - Designing and rebranding corporate identity.
+            - Producing financial and customer service reports.
+            - Optimizing the after-sales service process.
+            - Optimizing business process in order to increase customer satisfaction.
+            - Using technology to improve process and reduction in costs.
 
-      - layout: left
-        title: Isfahan Reebok
-        link: www.reebokesfahan.com
-        # link_text: boringcompany.com
-        sub_title: Ecommerce Manager
-        caption: Agu. 2016 - Aug. 2017
-        # quote: >
-          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            - Launching a shopping website(WordPress). improving website SEO to the third rank in Google.
-            - Launching social media profile and improving its engagement (Instagram).
+      # - layout: left
+      #   title: Isfahan Reebok
+      #   link: www.reebokesfahan.com
+      #   # link_text: boringcompany.com
+      #   sub_title: Ecommerce Manager
+      #   caption: Agu. 2016 - Aug. 2017
+      #   # quote: >
+      #     # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #   description: | # this will include new lines to allow paragraphs
+      #       - Launching a shopping website(WordPress). improving website SEO to the third rank in Google.
+      #       - Launching social media profile and improving its engagement (Instagram).
 
-      - layout: left
-        title: PooshTech
-        link: www.pooshtech.com
-        # link_text: boringcompany.com
-        sub_title: Chief Executive Officer
-        caption: Jan. 2016 - Jun. 2017
-        # quote: >
-          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          - Introducing and distributing wearable technology.
-          - Importing smart bracelets and watches.
+      # - layout: left
+      #   title: PooshTech
+      #   link: www.pooshtech.com
+      #   # link_text: boringcompany.com
+      #   sub_title: Chief Executive Officer
+      #   caption: Jan. 2016 - Jun. 2017
+      #   # quote: >
+      #     # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      #   description: | # this will include new lines to allow paragraphs
+      #     - Introducing and distributing wearable technology.
+      #     - Importing smart bracelets and watches.
 
       # - layout: left
       #   title: University of Qom
@@ -221,8 +239,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Islamic Azad University, Central Tehran Branch
-        caption: 2020 present
+        title: slamic Azad University Science and Research Branch
+        caption: Nov. 2020 - Peresent
         sub_title: MSc in Artificial Intelligence
         # quote: >
           # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
