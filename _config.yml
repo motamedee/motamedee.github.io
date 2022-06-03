@@ -239,7 +239,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: slamic Azad University Science and Research Branch
+        title: Islamic Azad University Science and Research Branch
         caption: Nov. 2020 - Peresent
         sub_title: MSc in Artificial Intelligence
         # quote: >
